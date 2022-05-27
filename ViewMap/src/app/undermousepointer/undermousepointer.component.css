@@ -1,0 +1,27 @@
+#features {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 50%;
+    overflow: auto;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+/* #map {
+    cursor: crosshair;
+} */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100vw;
+    cursor: crosshair;
+    /* height: 100vh; */
+}
